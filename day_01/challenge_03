@@ -1,0 +1,1 @@
+let distance_km =prompt("Donner la distance  : ");
